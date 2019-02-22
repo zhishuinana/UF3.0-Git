@@ -3,3 +3,4 @@ new line
 one more line
 second
 thrid
+My stupid boss still prefers SVN
